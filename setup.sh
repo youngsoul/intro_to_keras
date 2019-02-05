@@ -8,4 +8,4 @@ pip install tensorflow
 pip install keras
 pip install matplotlib
 pip install jupyter
-
+pip install scikit-learn
